@@ -12,3 +12,12 @@ Project involved transitioning from the legacy telephone system ShoreTel to the 
 - Spearheaded daily testing of the call flow and collaborated closely with RingCentral engineer to implement crucial updates and changes.
 - Conducted comprehensive training sessions for call center agents on the new cloud-based system and its advanced features.
 - Conducted audits of the call center team, including the COO, to enhance their understanding of the new call flow and features, resulting in improved agent supervision.
+
+
+
+<br />
+<br />
+<br />
+
+
+<a href="https://github.com/georgecyberli" class="button icon back">Back to Portfolio Page</a>
